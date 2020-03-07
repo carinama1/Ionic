@@ -1,0 +1,7 @@
+{
+  "name": "Irfany",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
